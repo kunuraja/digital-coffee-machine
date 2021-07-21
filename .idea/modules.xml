@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DigitalCoffeeMachine.iml" filepath="$PROJECT_DIR$/DigitalCoffeeMachine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../weatherUpdates/weatherUpdates/weatherUpdates.iml" filepath="$PROJECT_DIR$/../weatherUpdates/weatherUpdates/weatherUpdates.iml" />
+    </modules>
+  </component>
+</project>
